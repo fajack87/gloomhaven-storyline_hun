@@ -20,7 +20,7 @@ export default {
     "gh-4": {
         "name": "Bőrvért",
         "source": "Városfejlettség 1",
-        "desc": "Ha megtámadnak, a támató Hátrányból támad.",
+        "desc": "Ha megtámadnak, a támadó Hátrányból támad.",
         "faq": "A Bőrvérted el kell forgatni mielőtt az ellenfél támadás módosítót húz."
     },
     "gh-5": {
