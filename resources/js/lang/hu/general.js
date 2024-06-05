@@ -1,4 +1,4 @@
-export default {
+#=export default {
     "Sanctuary of the Great Oak": "Vén tölgy szentélye",
     "Gloomhaven Prosperity": "Homályrév fejlettsége",
     "Prosperity Items": "Felszerelések",
@@ -48,8 +48,8 @@ export default {
     "Choose": "Válassz",
     "Clear all": "Összes törlése",
     "Clues": "Nyomok",
-    "complete": "teljesítsétek",
-    "Complete": "Teljesítsétek",
+    "complete": "teljesítve",
+    "Complete": "Teljesítve",
     "Completed": "Teljesítve",
     "Conclusion": "Végkifejlet",
     "Deck": "Pakli",
